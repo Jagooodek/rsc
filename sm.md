@@ -85,3 +85,12 @@ W sumie wyżej to też część dowodu ale już mi się nie chce zmieniać.
 Dowód będzie nie wprost. Załóżmy że obie liczby na każdym drzewie są należą do {1, 2, ... , 10}.
 
 Wezmę teraz 100 szufladek, każda będzie oznaczona parą liczb z tego przedziału, wrzucimy każe drzewo do szufladki zgodnej z liczbami napisanymi na tym drzewie. Więc w przynajmniej jednej szufladce będzie więcej niż 1 drzewo. Teraz wykazujemy że dwa drzewa nie mogą mieć tej samej pary liczb.~~Nie umiem zanotować tego wykazania bez rysunku :(~~ Weźmy dwa drzewa o tych samych liczbach a i b, jeżeli drzewo po prawej będzie wyższe to na pewno od drzewa po lewej ta się zbudować ciąg rosnący o jeden dłuższy niż z drzewa po lewej, a jeżeli będzie niższe to z drzewa po prawej na pewno da się zbudować ciąg malejący o jednen dłuższy niż z drzewa po lewej. Co wykazuje że w żadnej szufladce nie może być dwóch drzew, co oznacza sprzeczność i kończy dowód nie wprost.
+
+## Natrudniejsze zadanie
+>Ono nie jest wcale tak trudne powiedział prowadzący chwile po tym jak powiedział że jest najtrudniejsze.
+
+Jest impreza na której jest 20 paszczaków i 20 migotek. Każdy paszczak wita się z każdą migotką którą zna przez pocałowanie w czoło. Mamy detektor pocałunków w czoło który wykrył że nastąpiło 99 powitań. Wykaż że są 2 takie paszczaki p i p' i takie 2 migotki m i m' że p zna m i m' i p' zna m i m'.
+>Prowadzący jest przerażony że pomylił liczby.
+
+To się robi zasadą szufladkową, można to wyczuć ale dojście do tego co jest szufladką a co jest kulką nie jest takie oczywiste.
+Szufladkami będą pary migotek (albo pary paszcaków to wszystko jest symetryczne) jest ich 190, więc mamy 190 szuflad.
