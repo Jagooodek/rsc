@@ -22,9 +22,16 @@ W opini prowadzącego nazwa jest kretyńska i obciachowa XD
 
 Przedział w pociągu jest 6 osób. Okazuje się że spośród tych 6 pasażerów są pary które się znają i są pary które się nie znają. I znajomości są różne.
 
-Przykład:
+### Przykład:
 - wsród 6 osób zawsze jest taka trójka która się nawzajem zna
 - lub zawsze jest taka trójka która się nawzajem nie zna
+
+(rozkmina na temat definicji znania się) Ważne jest tylko to że relacja znajomości jest symetryczna jeśli A zna B to B zna A
+
+#### Dowód
+Weźmy trochę czerwonych sznurków i trochę zielonych i każdej parze A i B znającej się każmy trzymać końce zielonego sznurka, a każdej parze nie znającej się każmy trzymać końce czerwonego sznurka. ("Zabrakło by rąk" komentarz z sali, można trzymać więcej niż jeden w ręce, a jak coś to w zębach też XD)
+Sznurki mają 30 końców, simple math.
+Żeby udowodnić twierdzenie musi powstać monochromatyczny trójkąt.
 
 ## O liczbach Ramseya
 
