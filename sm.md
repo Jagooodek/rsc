@@ -95,3 +95,10 @@ Jest impreza na której jest 20 paszczaków i 20 migotek. Każdy paszczak wita s
 To się robi zasadą szufladkową, można to wyczuć ale dojście do tego co jest szufladką a co jest kulką nie jest takie oczywiste.
 Szufladkami będą pary migotek (albo pary paszcaków to wszystko jest symetryczne) jest ich 190, więc mamy 190 szuflad. Paszczak wrzuci swoje zdjęcie do każdej szufladki oznaczonej przez y i y' takie że pocałował y i y'. Trzeba wykazać że istnieje szufladka z dwoma zdjęciami. 
 >W sumie to pada mi lapek więc jeżelk to jest koniec to to nie jest koniec XD
+
+Wystarczy pokazać że jest przynajmniej 191 zdjęć wrzuconych do szufladek.
+Nie ma czasu żeby powiedział to porządnie więc mówi byle jak.
+Zadrzy się paszczak który zna n >= 6 i taki który zna m <= 4, jak na ilość zdjęć wpłynie oddanie przez n jednej znajomości temu co zna m.
+
+Przed operacją było n(n-1)/2 + m(m-1)/2 a po jest n+1(n)/2 + m+1(m)/2 więc liczba par się zmniejszy. (na czuja bo czasu nie ma)
+najmniej zdjęć będzie gdy 19 paszczaków zna po 5 migotek a 1 zna 4 migotki co daje 196 zdjęć. 
