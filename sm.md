@@ -93,4 +93,5 @@ Jest impreza na której jest 20 paszczaków i 20 migotek. Każdy paszczak wita s
 >Prowadzący jest przerażony że pomylił liczby.
 
 To się robi zasadą szufladkową, można to wyczuć ale dojście do tego co jest szufladką a co jest kulką nie jest takie oczywiste.
-Szufladkami będą pary migotek (albo pary paszcaków to wszystko jest symetryczne) jest ich 190, więc mamy 190 szuflad.
+Szufladkami będą pary migotek (albo pary paszcaków to wszystko jest symetryczne) jest ich 190, więc mamy 190 szuflad. Paszczak wrzuci swoje zdjęcie do każdej szufladki oznaczonej przez y i y' takie że pocałował y i y'. Trzeba wykazać że istnieje szufladka z dwoma zdjęciami. 
+>W sumie to pada mi lapek więc jeżelk to jest koniec to to nie jest koniec XD
