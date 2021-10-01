@@ -40,12 +40,16 @@ Ustalmy sobie jakiegoś pasażera, nazwijmy go A, złapaliśmy go możemy go prz
 
 >Najlepiej to sobie rozrysować, więc to zrób, nie umiem rysować w md XD.
 
+Był to brutalny dowód polegający na przejrzeniu wszystkich przypadków.
 
 
 ## O liczbach Ramseya
 
 ## O zasadzie szufladkowej
 Jeżeli do k szufladek włożymy więcej niż n*k kulek to znajdzie się szufladka w które będzie więcej niż n kulek. ("całkiem oczywiste" ~Prowdzący)
+
+>Przykład: Jeżeli do  2 szufladek włożymy więcej niż 2*2 kulek to znajdzie się szufladka w które będzie więcej niż 2 kulek. Wykorzystane w 6 osobach w przedziale.
+
 
 Ta zasada będzie eksplatowana na tych zajęciach. I w poprzednich podpunktach notki nie koniecznie pisane są chronologicznie.
 
