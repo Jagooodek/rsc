@@ -45,6 +45,12 @@ Był to brutalny dowód polegający na przejrzeniu wszystkich przypadków.
 
 ## O liczbach Ramseya
 
+>To jest do niczego nie jest przydatne, ale matematycy lubią takie rzeczy.
+
+Minimalna n takie że wsród n ludzi znajdzie się zawsze k takich którzy się nawzajem znają lub m takich którzy na wzajem się nie znają. Nazywa się liczbą Ramseya od(k, m)
+Wykazaliśmy że R(3,3) <= 6
+>Właśnie powiedział że nie chuja warto notować XDD
+
 ## O zasadzie szufladkowej
 Jeżeli do k szufladek włożymy więcej niż n*k kulek to znajdzie się szufladka w które będzie więcej niż n kulek. ("całkiem oczywiste" ~Prowdzący)
 
