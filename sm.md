@@ -33,7 +33,12 @@ Weźmy trochę czerwonych sznurków i trochę zielonych i każdej parze A i B zn
 Sznurki mają 30 końców, simple math.
 Żeby udowodnić twierdzenie musi powstać monochromatyczny trójkąt.
 
-Ustalmy sobie jakiegoś pasażera, nazwijmy go A, złapaliśmy go możemy go przesłuchiwać. Będzie kolor którego będzie trzymał przynajmniej 3 sznurki
+Ustalmy sobie jakiegoś pasażera, nazwijmy go A, złapaliśmy go możemy go przesłuchiwać. Będzie kolor K którego będzie trzymał przynajmniej 3 sznurki. Popatrzmy teraz na tych trzech kolesi, nawijmy ich B C D. 
+2 opcje z tego:
+1. Jeżeli między którymyś z nich jest sznurek tego samego kolor K co tworzy trójkąt monochromatyczny.
+2. Żadna z B, C, D nie jest połączona między sobą sznurkiem koloru K, i wtedy oni tworzą trójką monochromatyczny koloru przeciwnego do K.
+
+>Najlepiej to sobie rozrysować, więc to zrób, nie umiem rysować w md XD.
 
 
 
