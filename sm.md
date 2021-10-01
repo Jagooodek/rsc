@@ -17,4 +17,17 @@ W opini prowadzącego nazwa jest kretyńska i obciachowa XD
 -  Dostaniemy listy najlepiej zmierzyć się z nimi przed ćwiczeniami.
 -  Dostaniemy 2 listy łatwiejsze i trudniejsze, żebyśmy cały weekend mogli bawić się fajnymi zadaniami. Plan jest taki żebyśmy byli zajęci od rana do nocy.
 -  Żeby czegoś się nauczyć nie wystarczy wystawić się na wiedzę i chodzić na wykłady, jedyny sposób to przyłożyć się samemu, uczenie to indywidualny proces. On może sobie pieprzyć przez 2 godziny, ale najważniejszy czas to po wykładzie i przed ćwiczeniami kiedy my możemy się zmagać samodzielnie na podstawie wskazówek z jego pieprzenia.
--  
+  
+## Bardzo prosta historia o 6 osobach w przedziale kolejowym
+
+Przedział w pociągu jest 6 osób. Okazuje się że spośród tych 6 pasażerów są pary które się znają i są pary które się nie znają. I znajomości są różne.
+
+Przykład:
+- wsród 6 osób zawsze jest taka trójka która się nawzajem zna
+- lub zawsze jest taka trójka która się nawzajem nie zna
+
+## O liczbach Ramseya
+
+## O zasadzie szufladkowej
+
+## O nieskończonym twierdzeniu Ramseya (o Paszczakach i Migotkach)
