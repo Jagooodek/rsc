@@ -48,7 +48,15 @@ Był to brutalny dowód polegający na przejrzeniu wszystkich przypadków.
 >To jest do niczego nie jest przydatne, ale matematycy lubią takie rzeczy.
 
 Minimalna n takie że wsród n ludzi znajdzie się zawsze k takich którzy się nawzajem znają lub m takich którzy na wzajem się nie znają. Nazywa się liczbą Ramseya od(k, m)
-Wykazaliśmy że R(3,3) <= 6
+Wykazaliśmy że R(3,3) <= 6, prowadzący twierzi że =6, chyba bez dowod
+
+Na ćwiczeniach pokażemy że R(4,4) = 18
+
+R(5,5) jest nieznane
+
+R(6,6) też
+
+R(k,m) = R(m,k)
 >Właśnie powiedział że nie chuja warto notować XDD
 
 ## O zasadzie szufladkowej
@@ -59,4 +67,13 @@ Jeżeli do k szufladek włożymy więcej niż n*k kulek to znajdzie się szuflad
 
 Ta zasada będzie eksplatowana na tych zajęciach. I w poprzednich podpunktach notki nie koniecznie pisane są chronologicznie.
 
-## O nieskończonym twierdzeniu Ramseya (o Paszczakach i Migotkach)
+## (o Paszczakach i Migotkach) IDK zmianiał plan wykładu i zgubiłem się w tym jak nazwya się ten podpunkt.
+Mamy ogrodnika który ma 101 drzew każde ma inną wysokość. Innymi słowy rozważmy ciag 101 liczb (nieujemnych, bez znaczenia) a0, ... a101, parami różnych tzn. dla kazdych i,j taki że i!=j ai!=aj
+
+Ogrodnik chciałby wyciąć jaknajmniej drzew tak żeby "posegregować ten ciąg (w dowolną stronę)".
+Pokaż żę w tym ciągu istnieje podciąg monotonicznych o conajmniej 11 drzewach.
+Na każdym drzewie napiszemy 2 liczby różnymi kolorami:
+- Liczbe oznaczającą długość najdłużeszgo rosnącego podciągu który może rozpocząć się w tym miejscu. (Trochę ssie ta notka bez rysunku)
+- Liczbe oznaczającą długość najdłużeszgo niemalejącego podciągu który może rozpocząć się w tym miejscu.
+  
+Mam udowodnić że istnieje drzewo na którym jest napisana liczba 11, lub większa.
