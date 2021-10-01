@@ -29,12 +29,19 @@ Przedział w pociągu jest 6 osób. Okazuje się że spośród tych 6 pasażeró
 (rozkmina na temat definicji znania się) Ważne jest tylko to że relacja znajomości jest symetryczna jeśli A zna B to B zna A
 
 #### Dowód
-Weźmy trochę czerwonych sznurków i trochę zielonych i każdej parze A i B znającej się każmy trzymać końce zielonego sznurka, a każdej parze nie znającej się każmy trzymać końce czerwonego sznurka. ("Zabrakło by rąk" komentarz z sali, można trzymać więcej niż jeden w ręce, a jak coś to w zębach też XD)
+Weźmy trochę czerwonych sznurków i trochę zielonych i każdej parze A i B znającej się każmy trzymać końce zielonego sznurka, a każdej parze nie znającej się każmy trzymać końce     czerwonego sznurka. ("Zabrakło by rąk" komentarz z sali, można trzymać więcej niż jeden w ręce, a jak coś to w zębach też XD)
 Sznurki mają 30 końców, simple math.
 Żeby udowodnić twierdzenie musi powstać monochromatyczny trójkąt.
+
+Ustalmy sobie jakiegoś pasażera, nazwijmy go A, złapaliśmy go możemy go przesłuchiwać. Będzie kolor którego będzie trzymał przynajmniej 3 sznurki
+
+
 
 ## O liczbach Ramseya
 
 ## O zasadzie szufladkowej
+Jeżeli do k szufladek włożymy więcej niż n*k kulek to znajdzie się szufladka w które będzie więcej niż n kulek. ("całkiem oczywiste" ~Prowdzący)
+
+Ta zasada będzie eksplatowana na tych zajęciach. I w poprzednich podpunktach notki nie koniecznie pisane są chronologicznie.
 
 ## O nieskończonym twierdzeniu Ramseya (o Paszczakach i Migotkach)
