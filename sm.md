@@ -77,3 +77,11 @@ Na każdym drzewie napiszemy 2 liczby różnymi kolorami:
 - Liczbe oznaczającą długość najdłużeszgo niemalejącego podciągu który może rozpocząć się w tym miejscu.
   
 Mam udowodnić że istnieje drzewo na którym jest napisana liczba 11, lub większa.
+
+### Dowód
+>Apel o zaszczepienie się żebyśmy mogli bezpiecznie podawać sobie kartki.
+
+W sumie wyżej to też część dowodu ale już mi się nie chce zmieniać.
+Dowód będzie nie wprost. Załóżmy że obie liczby na każdym drzewie są należą do {1, 2, ... , 10}.
+
+Wezmę teraz 100 szufladek, każda będzie oznaczona parą liczb z tego przedziału, wrzucimy każe drzewo do szufladki zgodnej z liczbami napisanymi na tym drzewie. Więc w przynajmniej jednej szufladce będzie więcej niż 1 drzewo. Teraz wykazujemy że dwa drzewa nie mogą mieć tej samej pary liczb.~~Nie umiem zanotować tego wykazania bez rysunku :(~~ Weźmy dwa drzewa o tych samych liczbach a i b, jeżeli drzewo po prawej będzie wyższe to na pewno od drzewa po lewej ta się zbudować ciąg rosnący o jeden dłuższy niż z drzewa po lewej, a jeżeli będzie niższe to z drzewa po prawej na pewno da się zbudować ciąg malejący o jednen dłuższy niż z drzewa po lewej. Co wykazuje że w żadnej szufladce nie może być dwóch drzew, co oznacza sprzeczność i kończy dowód nie wprost.
