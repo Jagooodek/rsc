@@ -20,9 +20,9 @@ W opini prowadzącego nazwa jest kretyńska i obciachowa XD
   
 ## Bardzo prosta historia o 6 osobach w przedziale kolejowym
 
-Przedział w pociągu jest 6 osób. Okazuje się że spośród tych 6 pasażerów są pary które się znają i są pary które się nie znają. I znajomości są różne.
+Przedział w pociągu jest 6 osób. Wśród tych pasażerów mogą być pary które się znają i które się nie znają.
 
-### Przykład:
+### Teza:
 - wsród 6 osób zawsze jest taka trójka która się nawzajem zna
 - lub zawsze jest taka trójka która się nawzajem nie zna
 
@@ -33,10 +33,10 @@ Weźmy trochę czerwonych sznurków i trochę zielonych i każdej parze A i B zn
 Sznurki mają 30 końców, simple math.
 Żeby udowodnić twierdzenie musi powstać monochromatyczny trójkąt.
 
-Ustalmy sobie jakiegoś pasażera, nazwijmy go A, złapaliśmy go możemy go przesłuchiwać. Będzie kolor K którego będzie trzymał przynajmniej 3 sznurki. Popatrzmy teraz na tych trzech kolesi, nawijmy ich B C D. 
+Ustalmy sobie jakiegoś pasażera, nazwijmy go A, złapaliśmy go możemy go przesłuchiwać. Pomieważ trzyma on 5 sznurków które mogą mieć jeden z dwóch kolorów to będzie istniał kolor K którego pasażer będzie trzymał przynajmniej 3 sznurki. Popatrzmy teraz na tych trzech kolesi którzy trzymają te 3 sznurki, nawijmy ich B C D. 
 2 opcje z tego:
-1. Jeżeli między którymyś z nich jest sznurek tego samego kolor K co tworzy trójkąt monochromatyczny.
-2. Żadna z B, C, D nie jest połączona między sobą sznurkiem koloru K, i wtedy oni tworzą trójką monochromatyczny koloru przeciwnego do K.
+1. Jeżeli między którąś parą z nich jest sznurek tego samego kolor K co tworzy trójkąt monochromatyczny.
+2. Jeżeli żaden z B, C, D nie jest połączony między sobą sznurkiem koloru K, wtedy oni tworzą trójką monochromatyczny koloru przeciwnego do K.
 
 >Najlepiej to sobie rozrysować, więc to zrób, nie umiem rysować w md XD.
 
@@ -47,8 +47,8 @@ Był to brutalny dowód polegający na przejrzeniu wszystkich przypadków.
 
 >To jest do niczego nie jest przydatne, ale matematycy lubią takie rzeczy.
 
-Minimalna n takie że wsród n ludzi znajdzie się zawsze k takich którzy się nawzajem znają lub m takich którzy na wzajem się nie znają. Nazywa się liczbą Ramseya od(k, m)
-Wykazaliśmy że R(3,3) <= 6, prowadzący twierzi że =6, chyba bez dowod
+Minimalna liczba n taka, że wsród n ludzi znajdzie się zawsze k takich którzy się nawzajem znają lub m takich którzy na wzajem się nie znają. Nazywa się liczbą Ramseya od(k, m)
+Wykazaliśmy że R(3,3) <= 6, prowadzący twierzi że =6, nie pokazał dowodu.
 
 Na ćwiczeniach pokażemy że R(4,4) = 18
 
@@ -67,8 +67,8 @@ Jeżeli do k szufladek włożymy więcej niż n*k kulek to znajdzie się szuflad
 
 Ta zasada będzie eksplatowana na tych zajęciach. I w poprzednich podpunktach notki nie koniecznie pisane są chronologicznie.
 
-## (o Paszczakach i Migotkach) IDK zmianiał plan wykładu i zgubiłem się w tym jak nazwya się ten podpunkt.
-Mamy ogrodnika który ma 101 drzew każde ma inną wysokość. Innymi słowy rozważmy ciag 101 liczb (nieujemnych, bez znaczenia) a0, ... a101, parami różnych tzn. dla kazdych i,j taki że i!=j ai!=aj
+## IDK zmianiał plan wykładu i zgubiłem się w tym jak nazwya się ten podpunkt.
+Mamy ogrodnika który ma 101 drzew każde ma inną wysokość. Innymi słowy rozważmy ciag 101 liczb (nieujemnych, bez znaczenia) a0, ... a101, parami różnych tzn. dla kazdych i,j taki że i!=j a~i~!=a~j~
 
 Ogrodnik chciałby wyciąć jaknajmniej drzew tak żeby "posegregować ten ciąg (w dowolną stronę)".
 Pokaż żę w tym ciągu istnieje podciąg monotonicznych o conajmniej 11 drzewach.
