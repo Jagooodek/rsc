@@ -1,4 +1,4 @@
-# Szkoła myślenia
+# Szkoła myślenia Wykład 1
 
 ## Pewno jakiś wstęp
 W opini prowadzącego nazwa jest kretyńska i obciachowa XD
